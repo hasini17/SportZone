@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.aboutus,
+
+.sapphireheroes,
+.home,
+.tournaments,
+.houses,
+.schedules,
+.contact,
+.sign-up {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.aboutus
+{
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(228, 39, 39);
+  font-size: 100px;
+}
+.sapphireheroes
+{
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(228, 39, 39);
+  font-size: 100px;
+}
+.tournaments {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(228, 39, 39);
+  font-size: 100px;
+}
+
+.houses {
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: rgb(228, 39, 39);
+  font-size: 100px;
+}
+
+.schedules{
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(228, 39, 39);
+  font-size: 100px;
+}
+
+
+.contact{
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(228, 39, 39);
+  font-size: 100px;
+}
+
+
+
+
+.sign-up {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(228, 39, 39);
+  font-size: 100px;
+}
